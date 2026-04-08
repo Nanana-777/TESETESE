@@ -1,0 +1,5 @@
+{
+  "name": "東京銀座炸豬排地圖",
+  "description": "使用 Google Maps 資料整理的東京銀座炸豬排店評分、評論、排隊情況及招牌菜資訊。",
+  "requestFramePermissions": []
+}
